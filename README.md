@@ -14,7 +14,7 @@ navigate through a sequence of target coordinates.
 - Distance-based speed control
 - Oscillation detection and recovery
 - Stuck detection and recovery
-- OLED telemetry display
+- OLED display
 
 ## System Overview
 
@@ -36,7 +36,7 @@ Navigation priority:
 - 2 continuous-rotation servo motors
 - 3 ultrasonic distance sensors
 - SSD1306 OLED display
-- Mobile robot chassis
+- Robot chassis
 
 ## Navigation Algorithm
 
